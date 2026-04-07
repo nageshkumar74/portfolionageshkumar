@@ -88,6 +88,25 @@ export const assets = {
 
 export const workData = [
     {
+       title:"ImageKit Dashbord",
+       description:"Image optimazation",
+       bgImage:"/LordGanesh.png",
+       link:'https://nagesh-photo-shop-rxej.vercel.app/'
+    },
+    {
+        title:"Video Optimatization ",
+        description:"Customize video",
+        bgImage:'/ProductDashbord.png',
+        link:"https://video-craft-gamma.vercel.app/",
+
+    },
+    {
+        title:"Music Platform",
+        description:"Built it On Next Js",
+        bgImage:'MusicPlatform.png',
+        link:"https://nextjsmusicplatform-wahl.vercel.app/"
+    },
+    {
         title: 'Puneri Adda',
         description: 'Restaurant_Cart',
         bgImage: '/work-1.png',
