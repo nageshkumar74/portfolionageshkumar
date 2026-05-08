@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-# package.json
+ package.json
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
